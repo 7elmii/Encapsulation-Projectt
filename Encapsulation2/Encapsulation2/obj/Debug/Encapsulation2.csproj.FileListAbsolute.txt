@@ -1,0 +1,8 @@
+C:\Users\Trainer3\source\repos\tests\Encapsulation2\Encapsulation2\bin\Debug\Encapsulation2.exe.config
+C:\Users\Trainer3\source\repos\tests\Encapsulation2\Encapsulation2\bin\Debug\Encapsulation2.exe
+C:\Users\Trainer3\source\repos\tests\Encapsulation2\Encapsulation2\bin\Debug\Encapsulation2.pdb
+C:\Users\Trainer3\source\repos\tests\Encapsulation2\Encapsulation2\obj\Debug\Encapsulation2.csproj.AssemblyReference.cache
+C:\Users\Trainer3\source\repos\tests\Encapsulation2\Encapsulation2\obj\Debug\Encapsulation2.csproj.CoreCompileInputs.cache
+C:\Users\Trainer3\source\repos\tests\Encapsulation2\Encapsulation2\obj\Debug\Encapsulation2.exe
+C:\Users\Trainer3\source\repos\tests\Encapsulation2\Encapsulation2\obj\Debug\Encapsulation2.pdb
+C:\Users\Trainer3\source\repos\tests\Encapsulation2\Encapsulation2\obj\Debug\Encapsulation2.exe.config
